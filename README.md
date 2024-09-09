@@ -6,6 +6,6 @@
 </div>
 
 ## Meta:
-- 📫 Reach me at: spirit@programmer.net
-- 🖼️ Portfolio: [lilspirit.info](https://lilspirit.info)
-- 🌐 Community: [Discord](https://discord.lilspirit.info)
+- **📫 Reach me at: spirit@programmer.net**
+- **🖼️ Portfolio: [lilspirit.info](https://lilspirit.info)**
+- **🌐 Community: [Discord](https://discord.lilspirit.info)**
