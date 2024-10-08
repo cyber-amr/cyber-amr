@@ -5,7 +5,7 @@
 ##
 
 <div align="center">
-  <a target="_blank" href="https://github.com/spirit-x64?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-x64&layout=pie&theme=dark"></a>
+  <a target="_blank" href="https://github.com/spirit-x64?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-x64&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5"></a>
   <a target="_blank" href="https://github.com/spirit-x64?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=spirit-x64&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage"></a>
   <br>
 </div>
