@@ -5,11 +5,11 @@
 ##
 
 <div align="center">
-  <a target="_blank" href="https://github.com/spirit-x64?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-x64&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5"></a>
-  <a target="_blank" href="https://github.com/spirit-x64?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=spirit-x64&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage"></a>
+  <a target="_blank" href="https://github.com/cyber-amr?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-amr&layout=pie&theme=dark&langs_count=20&size_weight=0.5&count_weight=0.5"></a>
+  <a target="_blank" href="https://github.com/cyber-amr?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=cyber-amr&theme=dark&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage"></a>
   <br>
 </div>
 
 ## Meta:
-- **📫 Reach me at: spirit@programmer.net**
+- **📫 Reach me at: amr@programmer.net**
 - **🌐 Community: [Discord](https://discord.amr-dev.info)**
