@@ -12,4 +12,3 @@
 
 ## Meta:
 - **📫 Reach me at: amr@programmer.net**
-- **🌐 Community: [Discord](https://discord.amr-dev.info)**
